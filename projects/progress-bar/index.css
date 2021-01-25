@@ -1,0 +1,23 @@
+*,
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  padding: 8px;
+}
+
+.progress-bar {
+  width: 50%;
+  height: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.progress {
+  height: 100%;
+  width: 0%;
+  background-color: green;
+}
