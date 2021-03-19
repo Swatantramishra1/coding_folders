@@ -1,0 +1,10 @@
+.Search-Container > input[type="search" i] {
+  border: 1px solid #80808069;
+  background-color: #80808017;
+  padding: 4px 6px;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: 300;
+  outline: none;
+  padding: 7px;
+}

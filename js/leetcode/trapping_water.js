@@ -1,4 +1,4 @@
-let arr = [4,2,0,3,2,5];
+let arr = [2,4,5,3,2,6,4,7,5,1,1,5];
 
 
 // getTrappedWater = (arr) => {
@@ -114,7 +114,7 @@ function storeLeftRightMax(arr) {
     }
 }
 
-// trappingWater(arr);
+trappingWater(arr);
 
 
 

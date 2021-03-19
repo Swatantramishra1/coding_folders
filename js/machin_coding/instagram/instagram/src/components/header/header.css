@@ -1,0 +1,22 @@
+.Header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: fixed;
+  height: 54px;
+  background-color: white;
+}
+
+.Header-Container {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 535px) {
+  .Header-Container {
+    width: 90%;
+  }
+}
